@@ -1,0 +1,12 @@
+{
+  "testkey123": {
+    "hwid": "",
+    "note": "trial user",
+    "expires": "2025-08-01"
+  },
+  "prokey420": {
+    "hwid": "",
+    "note": "paid user",
+    "expires": null
+  }
+}
