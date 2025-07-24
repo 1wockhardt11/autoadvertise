@@ -1,10 +1,10 @@
 {
-  "testkey123": {
+  "1daytrialkey": {
     "hwid": "",
     "note": "trial user",
     "expires": "2025-08-01"
   },
-  "prokey420": {
+  "lifetimekey": {
     "hwid": "",
     "note": "paid user",
     "expires": null
