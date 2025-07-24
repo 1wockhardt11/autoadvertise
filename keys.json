@@ -14,6 +14,11 @@
     "note": "paid user",
     "expires": null
   },
+    "giveaway1": {
+    "hwid": "",
+    "note": "giveaway winner",
+    "expires": "2025-08-24"
+  },
   "ADMIN69420": {
     "hwid": "",
     "note": "owner",
