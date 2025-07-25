@@ -9,6 +9,11 @@
     "note": "paid user",
     "expires": null
   },
+  "1daytrial": {
+    "hwid": "",
+    "note": "paid user",
+    "expires": "2025-07-26"
+  },
   "bmchawtsrlyqzen": {
     "hwid": "",
     "note": "paid user",
